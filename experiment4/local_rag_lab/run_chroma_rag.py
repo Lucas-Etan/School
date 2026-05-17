@@ -1,6 +1,8 @@
 from chroma_vector_db import build_chroma_store, search_chroma_db
 from governed_rag import detect_conflicts, format_citation, synthesize_answer
+from student_info import print_student_id
 
+print_student_id()
 
 def answer_with_chroma(
     question: str,
