@@ -4,7 +4,7 @@ from pathlib import Path
 from simple_vector import cosine, vectorize
 
 
-def load_chunks(path: str = "index/chunks.json") -> list[dict]:
+def load_chunks(path: str = "experiment4\local_rag_lab\index\chunks.json") -> list[dict]:
     """读取切分后的资料片段。"""
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
