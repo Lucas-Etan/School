@@ -1,0 +1,8 @@
+- 操作系统和终端类型:
+- OpenClaw 版本:OpenClaw 2026.5.22 (a374c3a)
+- Hermes 版本:v0.14.0 (2026.5.16)
+- Node 或 Python 版本:Python: 3.11.15
+- Ollama 版本:0.24.0
+- OpenClaw 实际配置文件路径:~/.openclaw/openclaw.json
+- Hermes 实际配置目录或数据目录:/home/lucas/.hermes
+- 遇到的安装问题和解决方式:无
