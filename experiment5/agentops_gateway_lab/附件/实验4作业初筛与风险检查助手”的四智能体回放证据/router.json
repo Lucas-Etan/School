@@ -1,0 +1,48 @@
+  ⚠ tirith security scanner enabled but not available — command scanning will use pattern matching only
+
+session_id: 20260526_174442_cc4412
+```json
+{
+  "project": "实验4作业初筛与风险检查助手",
+  "intent": "检查实验4提交材料是否包含 OpenClaw/Hermes 双 gateway、四个飞书机器人、DeepSeek 与本地 Qwen、qwen no-thinking、Router/LLM Router 证据、权限与脱敏证据，并生成实验4作业初筛报告",
+  "execution_mode": "sequential_then_review",
+  "agents": [
+    {
+      "agent": "hermes-exp4-deepseek",
+      "role": "OpenClaw/Hermes 双 gateway 审查 + 四个飞书机器人配置审查",
+      "order": 1
+    },
+    {
+      "agent": "exp4-deepseek",
+      "role": "DeepSeek 与本地 Qwen 部署 + qwen no-thinking 配置核查",
+      "order": 2
+    },
+    {
+      "agent": "exp4-qwen",
+      "role": "Router/LLM Router 路由证据收集与验证",
+      "order": 3
+    },
+    {
+      "agent": "hermes-exp4-qwen",
+      "role": "权限与脱敏证据审查 + 安全隐私复核",
+      "order": 4
+    }
+  ],
+  "final_responder": "exp4-deepseek",
+  "safety_gate": {
+    "requires_review": true,
+    "review_agent": "hermes-exp4-qwen",
+    "review_dimensions": ["gateway暴露面", "飞书bot凭证泄露", "配置文件脱敏", "路由访问控制"]
+  },
+  "confidence": {
+    "required_evidence_count": 6,
+    "pass_threshold": "all_pass"
+  },
+  "missing_info_policy": {
+    "action": "标记缺失并记录风险等级",
+    "allow_missing_with_warning": false,
+    "require_resubmit_if_critical_missing": true,
+    "critical_fields": ["双gateway配置", "四个飞书机器人凭证", "Router路由证据", "脱敏证据"]
+  }
+}
+```

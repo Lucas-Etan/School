@@ -1,0 +1,540 @@
+[35m[plugins][39m [33mplugins.allow is empty; discovered non-bundled plugins may auto-load: feishu (/home/lucas/.openclaw/npm/node_modules/@openclaw/feishu/dist/index.js). Set plugins.allow to explicit trusted ids.[39m
+[35m[plugins][39m [90mloading browser from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/browser/index.js[39m
+[35m[plugins][39m [90mloading canvas from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/canvas/index.js[39m
+[35m[plugins][39m [90mloading deepseek from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepseek/index.js[39m
+[35m[plugins][39m [90mloading device-pair from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/device-pair/index.js[39m
+[35m[plugins][39m [90mloading file-transfer from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/file-transfer/index.js[39m
+[35m[plugins][39m [90mloading memory-core from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/memory-core/index.js[39m
+[35m[plugins][39m [90mloading ollama from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/ollama/index.js[39m
+[35m[plugins][39m [90mloading phone-control from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/phone-control/index.js[39m
+[35m[plugins][39m [90mloading talk-voice from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/talk-voice/index.js[39m
+[35m[plugins][39m [90mloading feishu from /home/lucas/.openclaw/npm/node_modules/@openclaw/feishu/dist/index.js[39m
+[35m[plugins][39m [90mloaded 10 plugin(s) (10 attempted) in 1266.8ms[39m
+[31m[diagnostic][39m [90mlane enqueue: lane=session:agent:exp4-deepseek:main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=session:agent:exp4-deepseek:main waitMs=2 queueSize=0[39m
+[31m[diagnostic][39m [90mlane enqueue: lane=main queueSize=1[39m
+[31m[diagnostic][39m [90mlane dequeue: lane=main waitMs=1 queueSize=0[39m
+[35m[plugins][39m [33mplugins.allow is empty; discovered non-bundled plugins may auto-load: feishu (/home/lucas/.openclaw/npm/node_modules/@openclaw/feishu/dist/index.js). Set plugins.allow to explicit trusted ids.[39m
+[35m[plugins][39m [90mloading alibaba from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/alibaba/index.js[39m
+[35m[plugins][39m [90mloading anthropic from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/anthropic/index.js[39m
+[35m[plugins][39m [90mloading arcee from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/arcee/index.js[39m
+[35m[plugins][39m [90mloading azure-speech from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/azure-speech/index.js[39m
+[35m[plugins][39m [90mloading browser from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/browser/index.js[39m
+[35m[plugins][39m [90mloading byteplus from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/byteplus/index.js[39m
+[35m[plugins][39m [90mloading canvas from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/canvas/index.js[39m
+[35m[plugins][39m [90mloading cerebras from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/cerebras/index.js[39m
+[35m[plugins][39m [90mloading chutes from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/chutes/index.js[39m
+[35m[plugins][39m [90mloading cloudflare-ai-gateway from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/cloudflare-ai-gateway/index.js[39m
+[35m[plugins][39m [90mloading comfy from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/comfy/index.js[39m
+[35m[plugins][39m [90mloading copilot-proxy from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/copilot-proxy/index.js[39m
+[35m[plugins][39m [90mloading deepgram from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepgram/index.js[39m
+[35m[plugins][39m [90mloading deepinfra from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepinfra/index.js[39m
+[35m[plugins][39m [90mloading deepseek from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepseek/index.js[39m
+[35m[plugins][39m [90mloading device-pair from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/device-pair/index.js[39m
+[35m[plugins][39m [90mloading document-extract from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/document-extract/index.js[39m
+[35m[plugins][39m [90mloading elevenlabs from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/elevenlabs/index.js[39m
+[35m[plugins][39m [90mloading fal from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/fal/index.js[39m
+[35m[plugins][39m [90mloading file-transfer from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/file-transfer/index.js[39m
+[35m[plugins][39m [90mloading fireworks from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/fireworks/index.js[39m
+[35m[plugins][39m [90mloading github-copilot from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/github-copilot/index.js[39m
+[35m[plugins][39m [90mloading google from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/google/index.js[39m
+[35m[plugins][39m [90mloading groq from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/groq/index.js[39m
+[35m[plugins][39m [90mloading huggingface from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/huggingface/index.js[39m
+[35m[plugins][39m [90mloading inworld from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/inworld/index.js[39m
+[35m[plugins][39m [90mloading kilocode from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/kilocode/index.js[39m
+[35m[plugins][39m [90mloading kimi from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/kimi-coding/index.js[39m
+[35m[plugins][39m [90mloading litellm from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/litellm/index.js[39m
+[35m[plugins][39m [90mloading lmstudio from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/lmstudio/index.js[39m
+[35m[plugins][39m [90mloading memory-core from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/memory-core/index.js[39m
+[35m[plugins][39m [90mloading microsoft from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/microsoft/index.js[39m
+[35m[plugins][39m [90mloading microsoft-foundry from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/microsoft-foundry/index.js[39m
+[35m[plugins][39m [90mloading minimax from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/minimax/index.js[39m
+[35m[plugins][39m [90mloading mistral from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/mistral/index.js[39m
+[35m[plugins][39m [90mloading moonshot from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/moonshot/index.js[39m
+[35m[plugins][39m [90mloading nvidia from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/nvidia/index.js[39m
+[35m[plugins][39m [90mloading ollama from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/ollama/index.js[39m
+[35m[plugins][39m [90mloading openai from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/openai/index.js[39m
+[35m[plugins][39m [90mloading opencode from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/opencode/index.js[39m
+[35m[plugins][39m [90mloading opencode-go from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/opencode-go/index.js[39m
+[35m[plugins][39m [90mloading openrouter from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/openrouter/index.js[39m
+[35m[plugins][39m [90mloading phone-control from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/phone-control/index.js[39m
+[35m[plugins][39m [90mloading qianfan from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/qianfan/index.js[39m
+[35m[plugins][39m [90mloading qwen from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/qwen/index.js[39m
+[35m[plugins][39m [90mloading runway from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/runway/index.js[39m
+[35m[plugins][39m [90mloading senseaudio from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/senseaudio/index.js[39m
+[35m[plugins][39m [90mloading sglang from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/sglang/index.js[39m
+[35m[plugins][39m [90mloading stepfun from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/stepfun/index.js[39m
+[35m[plugins][39m [90mloading synthetic from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/synthetic/index.js[39m
+[35m[plugins][39m [90mloading talk-voice from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/talk-voice/index.js[39m
+[35m[plugins][39m [90mloading tencent from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/tencent/index.js[39m
+[35m[plugins][39m [90mloading together from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/together/index.js[39m
+[35m[plugins][39m [90mloading tts-local-cli from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/tts-local-cli/index.js[39m
+[35m[plugins][39m [90mloading venice from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/venice/index.js[39m
+[35m[plugins][39m [90mloading vercel-ai-gateway from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/vercel-ai-gateway/index.js[39m
+[35m[plugins][39m [90mloading vllm from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/vllm/index.js[39m
+[35m[plugins][39m [90mloading volcengine from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/volcengine/index.js[39m
+[35m[plugins][39m [90mloading voyage from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/voyage/index.js[39m
+[35m[plugins][39m [90mloading vydra from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/vydra/index.js[39m
+[35m[plugins][39m [90mloading web-readability from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/web-readability/index.js[39m
+[35m[plugins][39m [90mloading xai from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/xai/index.js[39m
+[35m[plugins][39m [90mloading xiaomi from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/xiaomi/index.js[39m
+[35m[plugins][39m [90mloading zai from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/zai/index.js[39m
+[35m[plugins][39m [90mloading feishu from /home/lucas/.openclaw/npm/node_modules/@openclaw/feishu/dist/index.js[39m
+[35m[plugins][39m [90mloaded 92 plugin(s) (65 attempted) in 779.4ms[39m
+[32m[agents/harness][39m [90magent harness selected[39m
+[33m[agent/embedded][39m [90membedded run start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 provider=deepseek model=deepseek-v4-flash thinking=off messageChannel=unknown[39m
+[33m[agent/embedded][39m [90mapplying extraParams to agent streamFn for deepseek/deepseek-v4-flash[39m
+[31m[diagnostic][39m [90msession state: sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 sessionKey=agent:exp4-deepseek:main prev=idle new=processing reason="run_started" queueDepth=0[39m
+[31m[diagnostic][39m [90mrun registered: sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 totalActive=1[39m
+[33m[agent/embedded][39m [90membedded run prompt start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 provider=deepseek api=openai-completions endpoint=deepseek-native route=native policy=none[39m
+[33m[agent/embedded][39m [90m[context-diag] pre-prompt: sessionKey=agent:exp4-deepseek:main messages=9 roleCounts=assistant:3,toolResult:4,user:2 historyTextChars=16462 maxMessageTextChars=12041 historyImageBlocks=0 systemPromptChars=29273 promptChars=124 promptImages=0 provider=deepseek/deepseek-v4-flash sessionFile=/home/lucas/.openclaw/agents/exp4-deepseek/sessions/071f8bc2-ad49-4ca8-80ce-40a8910757b2.jsonl[39m
+[33m[agent/embedded][39m [90m[context-overflow-precheck] pre-prompt check sessionKey=agent:exp4-deepseek:main provider=deepseek/deepseek-v4-flash route=fits estimatedPromptTokens=19199 pressureSource=transcript_estimate promptBudgetBeforeReserve=980000 overflowTokens=0 toolResultReducibleChars=0 reserveTokens=20000 effectiveReserveTokens=20000 contextTokenBudget=1000000 messages=9 unwindowedMessages=9 sessionFile=/home/lucas/.openclaw/agents/exp4-deepseek/sessions/071f8bc2-ad49-4ca8-80ce-40a8910757b2.jsonl[39m
+[33m[agent/embedded][39m [90membedded run agent start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=223 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=memory_search toolCallId=call_00_9gmb9nknzdKyDF8CQw0V9350[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_t0R6ibkeIGR48Z5aSWar0623[39m
+[35m[plugins][39m [90mloading deepinfra from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepinfra/index.js[39m
+[35m[plugins][39m [90mloading github-copilot from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/github-copilot/index.js[39m
+[35m[plugins][39m [90mloading google from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/google/index.js[39m
+[35m[plugins][39m [90mloading lmstudio from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/lmstudio/index.js[39m
+[35m[plugins][39m [90mloading memory-core from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/memory-core/index.js[39m
+[35m[plugins][39m [90mloading mistral from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/mistral/index.js[39m
+[35m[plugins][39m [90mloading ollama from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/ollama/index.js[39m
+[35m[plugins][39m [90mloading openai from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/openai/index.js[39m
+[35m[plugins][39m [90mloading voyage from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/voyage/index.js[39m
+[35m[plugins][39m [90mloaded 9 plugin(s) (9 attempted) in 24.7ms[39m
+[35m[plugins][39m [90mloading anthropic from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/anthropic/index.js[39m
+[35m[plugins][39m [90mloading byteplus from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/byteplus/index.js[39m
+[35m[plugins][39m [90mloading deepseek from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/deepseek/index.js[39m
+[35m[plugins][39m [90mloading moonshot from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/moonshot/index.js[39m
+[35m[plugins][39m [90mloading tencent from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/tencent/index.js[39m
+[35m[plugins][39m [90mloading volcengine from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/volcengine/index.js[39m
+[35m[plugins][39m [90mloading xai from /home/lucas/.npm-global/lib/node_modules/openclaw/dist/extensions/xai/index.js[39m
+[35m[plugins][39m [90mloaded 7 plugin(s) (7 attempted) in 18.0ms[39m
+[31m[memory][39m [90msync: indexing memory files[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_t0R6ibkeIGR48Z5aSWar0623[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=memory_search toolCallId=call_00_9gmb9nknzdKyDF8CQw0V9350[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=235 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=read toolCallId=call_00_hgnYSIXCMHJnRZgXQ3Rd6781[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_uj4glQl0TZ9b3xz45RTY5761[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_kc4GDL0dnSG9sGDOGxJ67052[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_03_BJs3UkzRO0wqQROciqPV0780[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_kc4GDL0dnSG9sGDOGxJ67052[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_uj4glQl0TZ9b3xz45RTY5761[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=read toolCallId=call_00_hgnYSIXCMHJnRZgXQ3Rd6781[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_03_BJs3UkzRO0wqQROciqPV0780[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=140 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_RijDB9Ce3GA6LTSb9OHH1773[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_SxY4h4aqrzywLP5k9mFw6158[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_RijDB9Ce3GA6LTSb9OHH1773[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_SxY4h4aqrzywLP5k9mFw6158[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=351 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_c5jlNLbg4ZMEdC7vd4oh5152[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_pT5d6glxAzI0EVVkID2G1849[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_iNjU9rjxwgWZC04s2aRU5989[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_c5jlNLbg4ZMEdC7vd4oh5152[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_pT5d6glxAzI0EVVkID2G1849[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_iNjU9rjxwgWZC04s2aRU5989[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=162 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_FCprE27oJ76YDSgv3aFL0989[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_T4yrXGScgTRVFAN4XQ548420[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_FCprE27oJ76YDSgv3aFL0989[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_T4yrXGScgTRVFAN4XQ548420[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=293 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_tDVVcKkhKbjm8A9Lrln51299[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_Q8onfgs8iOiJ4Doza9cz0152[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_FhQtH3478M3nJCzt3ise1501[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_tDVVcKkhKbjm8A9Lrln51299[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_Q8onfgs8iOiJ4Doza9cz0152[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_FhQtH3478M3nJCzt3ise1501[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=320 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_u2BssTKMQqyIsjgS7Do45603[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_5hNDD0nTjs1Qh6jsEGGK7361[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_zs4us95Eiuq1sODzU2OQ3019[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_u2BssTKMQqyIsjgS7Do45603[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_02_zs4us95Eiuq1sODzU2OQ3019[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_5hNDD0nTjs1Qh6jsEGGK7361[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=515 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_kJ3aBgANJczH6q28Rclh1464[39m
+[33m[agent/embedded][39m [90membedded run tool start: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_5PqahlxJB07TCYaWcd7a8480[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_00_kJ3aBgANJczH6q28Rclh1464[39m
+[33m[agent/embedded][39m [90membedded run tool end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 tool=exec toolCallId=call_01_5PqahlxJB07TCYaWcd7a8480[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] start provider=deepseek api=openai-completions model=deepseek-v4-flash method=POST url=https://api.deepseek.com/chat/completions timeoutMs=120000 proxy=env policy=custom[39m
+[33m[provider-transport-fetch][39m [90m[model-fetch] response provider=deepseek api=openai-completions model=deepseek-v4-flash status=200 elapsedMs=261 contentType=text/event-stream; charset=utf-8[39m
+[33m[agent/embedded][39m [90membedded run agent end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 isError=false[39m
+[31m[diagnostic][39m [90msession state: sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 sessionKey=agent:exp4-deepseek:main prev=processing new=idle reason="run_completed" queueDepth=0[39m
+[31m[diagnostic][39m [90mrun cleared: sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 totalActive=0[39m
+[33m[agent/embedded][39m [90membedded run prompt end: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 durationMs=39833[39m
+[33m[agent/embedded][39m [90membedded run done: runId=da1fe020-aa60-4b5f-a53a-eab59bc4e634 sessionId=ab731007-26f4-4000-958e-a74edaa73bb6 durationMs=41720 aborted=false[39m
+[31m[diagnostic][39m [90mlane task done: lane=main durationMs=41725 active=0 queued=0[39m
+[31m[diagnostic][39m [90mlane task done: lane=session:agent:exp4-deepseek:main durationMs=41731 active=0 queued=0[39m
+{
+  "payloads": [
+    {
+      "text": "基于审查结果，输出检查清单如下：\n\n---\n\n## exp4-deepseek 实验4作业初筛检查清单\n\n### ✅ 通过项\n\n| 编号 | 检查点 | 状态说明 |\n|------|--------|----------|\n| P1 | Gateway 服务运行状态 | systemd 已安装·enabled·running (pid 14925) |\n| P2 | Agent 创建 | agents.list 包含 exp4-deepseek，分配独立 workspace |\n| P3 | Provider 配置 | deepseek 模型 deepseek-v4-flash 已配置，contextWindow 1000k |\n| P4 | Feishu Channel 连接 | websocket 长连接 OK，2 个账号在线 |\n| P5 | 飞书群组路由 | binding 存在：exp4-qwen 绑定 oc-qwen 账号群组 |\n| P6 | Group 权限控制 | groupPolicy=allowlist，限定指定群组 |\n| P7 | 飞书插件加载 | feishu plugin 已启用并加载成功 |\n| P8 | 配置持久化 | lastKnownGood 校验通过，config-health.json 正常 |\n| P9 | Session 活跃 | exp4-deepseek main session 通信正常 |\n| P10 | 安全审计可运行 | openclaw security audit 可执行输出报告 |\n\n### ⚠️ 风险项\n\n| 编号 | 风险点 | 级别 | 说明 |\n|------|--------|------|------|\n| R1 | exp4-deepseek 缺少飞书路由绑定 | 中 | 当前 bindings 仅有 exp4-qwen→oc-qwen 一条；exp4-deepseek 无绑定路由，无法通过飞书 channel 接收群消息 |\n| R2 | allowInsecureAuth=true 未关闭 | 中 | gateway.controlUi.allowInsecureAuth 仍开启，安全审计已告警 |\n| R3 | Plugin 版本未 pin | 低 | @openclaw/feishu 未锁定精确版本，供应链稳定风险 |\n| R4 | Node service 未安装 | 低 | systemd user node service 未安装，缺乏移动端配对路径 |\n| R5 | 历史配置写入异常记录 | 低 | config-audit.jsonl 存在一次 \"invalid config: must be object\" 错误，发生在 channels.feishu.accounts 字段 |\n| R6 | BOOTSTRAP.md 未删除 | 低 | 首次引导标记文件仍存在于 workspace，按 AGENTS.md 约定应在首次对话后删除 |\n\n### 📋 建议补证项\n\n| 编号 | 补证需要 | 理由 |\n|------|----------|------|\n| C1 | 为 exp4-deepseek 添加飞书路由 binding | 当前无绑定，exp4-deepseek 无法响应飞书消息，仅限本机 session |\n| C2 | 群组内 mention 实测截图/日志 | 需验证 @OC-DeepSeek 能正确被路由唤醒 |\n| C3 | 关闭 allowInsecureAuth | 遵循安全审计修复建议 |\n| C4 | 补充飞书账号 secrets 注入来源验证 | .env 文件是否存在、变量格式是否合规（建议检查 ${FEISHU_OC_DEEPSEEK_APP_ID} 的解析） |\n| C5 | 删除 BOOTSTRAP.md | 按工作区规范清理 |\n| C6 | 创建 memory/ 目录及 MEMORY.md | 当前无持久化记忆基础，agent 每次启动无上下文延续能力 |\n| C7 | 填写 IDENTITY.md 与 USER.md | 当前均为模板状态，agent 无身份标识、无人物画像 |",
+      "mediaUrl": null
+    }
+  ],
+  "meta": {
+    "durationMs": 41722,
+    "agentMeta": {
+      "sessionId": "071f8bc2-ad49-4ca8-80ce-40a8910757b2",
+      "sessionFile": "/home/lucas/.openclaw/agents/exp4-deepseek/sessions/071f8bc2-ad49-4ca8-80ce-40a8910757b2.jsonl",
+      "provider": "deepseek",
+      "model": "deepseek-v4-flash",
+      "contextTokens": 1000000,
+      "agentHarnessId": "pi",
+      "usage": {
+        "input": 10366,
+        "output": 2079,
+        "cacheRead": 199296,
+        "total": 30320
+      },
+      "lastCallUsage": {
+        "input": 727,
+        "output": 793,
+        "cacheRead": 28800,
+        "cacheWrite": 0,
+        "total": 30320
+      },
+      "promptTokens": 29527
+    },
+    "aborted": false,
+    "systemPromptReport": {
+      "source": "run",
+      "generatedAt": 1779787783942,
+      "sessionId": "ab731007-26f4-4000-958e-a74edaa73bb6",
+      "sessionKey": "agent:exp4-deepseek:main",
+      "provider": "deepseek",
+      "model": "deepseek-v4-flash",
+      "workspaceDir": "/home/lucas/.openclaw/workspace-exp4-deepseek",
+      "bootstrapMaxChars": 12000,
+      "bootstrapTotalMaxChars": 60000,
+      "bootstrapTruncation": {
+        "warningMode": "always",
+        "warningShown": false,
+        "truncatedFiles": 0,
+        "nearLimitFiles": 0,
+        "totalNearLimit": false
+      },
+      "sandbox": {
+        "mode": "off",
+        "sandboxed": false
+      },
+      "systemPrompt": {
+        "chars": 29273,
+        "projectContextChars": 13832,
+        "nonProjectContextChars": 15441
+      },
+      "injectedWorkspaceFiles": [
+        {
+          "name": "AGENTS.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/AGENTS.md",
+          "missing": false,
+          "rawChars": 7877,
+          "injectedChars": 7877,
+          "truncated": false
+        },
+        {
+          "name": "SOUL.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/SOUL.md",
+          "missing": false,
+          "rawChars": 1797,
+          "injectedChars": 1797,
+          "truncated": false
+        },
+        {
+          "name": "TOOLS.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/TOOLS.md",
+          "missing": false,
+          "rawChars": 910,
+          "injectedChars": 910,
+          "truncated": false
+        },
+        {
+          "name": "IDENTITY.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/IDENTITY.md",
+          "missing": false,
+          "rawChars": 693,
+          "injectedChars": 693,
+          "truncated": false
+        },
+        {
+          "name": "USER.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/USER.md",
+          "missing": false,
+          "rawChars": 534,
+          "injectedChars": 534,
+          "truncated": false
+        },
+        {
+          "name": "HEARTBEAT.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/HEARTBEAT.md",
+          "missing": false,
+          "rawChars": 225,
+          "injectedChars": 225,
+          "truncated": false
+        },
+        {
+          "name": "BOOTSTRAP.md",
+          "path": "/home/lucas/.openclaw/workspace-exp4-deepseek/BOOTSTRAP.md",
+          "missing": false,
+          "rawChars": 1510,
+          "injectedChars": 1510,
+          "truncated": false
+        }
+      ],
+      "skills": {
+        "promptChars": 6025,
+        "entries": [
+          {
+            "name": "browser-automation",
+            "blockChars": 324
+          },
+          {
+            "name": "canvas",
+            "blockChars": 263
+          },
+          {
+            "name": "diagram-maker",
+            "blockChars": 266
+          },
+          {
+            "name": "feishu-doc",
+            "blockChars": 255
+          },
+          {
+            "name": "feishu-drive",
+            "blockChars": 247
+          },
+          {
+            "name": "feishu-perm",
+            "blockChars": 269
+          },
+          {
+            "name": "feishu-wiki",
+            "blockChars": 249
+          },
+          {
+            "name": "healthcheck",
+            "blockChars": 278
+          },
+          {
+            "name": "meme-maker",
+            "blockChars": 251
+          },
+          {
+            "name": "node-connect",
+            "blockChars": 281
+          },
+          {
+            "name": "node-inspect-debugger",
+            "blockChars": 277
+          },
+          {
+            "name": "notion",
+            "blockChars": 272
+          },
+          {
+            "name": "python-debugpy",
+            "blockChars": 265
+          },
+          {
+            "name": "session-logs",
+            "blockChars": 253
+          },
+          {
+            "name": "skill-creator",
+            "blockChars": 259
+          },
+          {
+            "name": "spike",
+            "blockChars": 251
+          },
+          {
+            "name": "taskflow",
+            "blockChars": 281
+          },
+          {
+            "name": "taskflow-inbox-triage",
+            "blockChars": 291
+          },
+          {
+            "name": "tmux",
+            "blockChars": 269
+          },
+          {
+            "name": "video-frames",
+            "blockChars": 229
+          },
+          {
+            "name": "weather",
+            "blockChars": 266
+          }
+        ]
+      },
+      "tools": {
+        "listChars": 0,
+        "schemaChars": 15450,
+        "entries": [
+          {
+            "name": "read",
+            "summaryChars": 298,
+            "schemaChars": 304,
+            "propertiesCount": 3
+          },
+          {
+            "name": "edit",
+            "summaryChars": 326,
+            "schemaChars": 834,
+            "propertiesCount": 2
+          },
+          {
+            "name": "write",
+            "summaryChars": 127,
+            "schemaChars": 225,
+            "propertiesCount": 2
+          },
+          {
+            "name": "exec",
+            "summaryChars": 539,
+            "schemaChars": 1187,
+            "propertiesCount": 12
+          },
+          {
+            "name": "process",
+            "summaryChars": 456,
+            "schemaChars": 1074,
+            "propertiesCount": 12
+          },
+          {
+            "name": "cron",
+            "summaryChars": 3610,
+            "schemaChars": 7131,
+            "propertiesCount": 14
+          },
+          {
+            "name": "update_plan",
+            "summaryChars": 163,
+            "schemaChars": 489,
+            "propertiesCount": 2
+          },
+          {
+            "name": "sessions_list",
+            "summaryChars": 135,
+            "schemaChars": 432,
+            "propertiesCount": 9
+          },
+          {
+            "name": "sessions_history",
+            "summaryChars": 117,
+            "schemaChars": 161,
+            "propertiesCount": 3
+          },
+          {
+            "name": "sessions_send",
+            "summaryChars": 224,
+            "schemaChars": 274,
+            "propertiesCount": 5
+          },
+          {
+            "name": "sessions_spawn",
+            "summaryChars": 332,
+            "schemaChars": 1240,
+            "propertiesCount": 17
+          },
+          {
+            "name": "sessions_yield",
+            "summaryChars": 79,
+            "schemaChars": 60,
+            "propertiesCount": 1
+          },
+          {
+            "name": "subagents",
+            "summaryChars": 129,
+            "schemaChars": 191,
+            "propertiesCount": 4
+          },
+          {
+            "name": "session_status",
+            "summaryChars": 278,
+            "schemaChars": 89,
+            "propertiesCount": 2
+          },
+          {
+            "name": "web_search",
+            "summaryChars": 65,
+            "schemaChars": 991,
+            "propertiesCount": 12
+          },
+          {
+            "name": "web_fetch",
+            "summaryChars": 93,
+            "schemaChars": 316,
+            "propertiesCount": 3
+          },
+          {
+            "name": "memory_search",
+            "summaryChars": 605,
+            "schemaChars": 237,
+            "propertiesCount": 4
+          },
+          {
+            "name": "memory_get",
+            "summaryChars": 239,
+            "schemaChars": 215,
+            "propertiesCount": 4
+          }
+        ]
+      },
+      "currentTurn": {
+        "promptChars": 124,
+        "runtimeContextChars": 0
+      }
+    },
+    "finalPromptText": "你是 OC-DeepSeek-2410311401，角色是工程配置审查员，Skill 是 exp4-code-review。请基于实验4作业初筛案例输出检查清单：通过项、风险项、建议补证项。不要输出任何真实密钥、chat_id 或 open_id。",
+    "finalAssistantVisibleText": "基于审查结果，输出检查清单如下：\n\n---\n\n## exp4-deepseek 实验4作业初筛检查清单\n\n### ✅ 通过项\n\n| 编号 | 检查点 | 状态说明 |\n|------|--------|----------|\n| P1 | Gateway 服务运行状态 | systemd 已安装·enabled·running (pid 14925) |\n| P2 | Agent 创建 | agents.list 包含 exp4-deepseek，分配独立 workspace |\n| P3 | Provider 配置 | deepseek 模型 deepseek-v4-flash 已配置，contextWindow 1000k |\n| P4 | Feishu Channel 连接 | websocket 长连接 OK，2 个账号在线 |\n| P5 | 飞书群组路由 | binding 存在：exp4-qwen 绑定 oc-qwen 账号群组 |\n| P6 | Group 权限控制 | groupPolicy=allowlist，限定指定群组 |\n| P7 | 飞书插件加载 | feishu plugin 已启用并加载成功 |\n| P8 | 配置持久化 | lastKnownGood 校验通过，config-health.json 正常 |\n| P9 | Session 活跃 | exp4-deepseek main session 通信正常 |\n| P10 | 安全审计可运行 | openclaw security audit 可执行输出报告 |\n\n### ⚠️ 风险项\n\n| 编号 | 风险点 | 级别 | 说明 |\n|------|--------|------|------|\n| R1 | exp4-deepseek 缺少飞书路由绑定 | 中 | 当前 bindings 仅有 exp4-qwen→oc-qwen 一条；exp4-deepseek 无绑定路由，无法通过飞书 channel 接收群消息 |\n| R2 | allowInsecureAuth=true 未关闭 | 中 | gateway.controlUi.allowInsecureAuth 仍开启，安全审计已告警 |\n| R3 | Plugin 版本未 pin | 低 | @openclaw/feishu 未锁定精确版本，供应链稳定风险 |\n| R4 | Node service 未安装 | 低 | systemd user node service 未安装，缺乏移动端配对路径 |\n| R5 | 历史配置写入异常记录 | 低 | config-audit.jsonl 存在一次 \"invalid config: must be object\" 错误，发生在 channels.feishu.accounts 字段 |\n| R6 | BOOTSTRAP.md 未删除 | 低 | 首次引导标记文件仍存在于 workspace，按 AGENTS.md 约定应在首次对话后删除 |\n\n### 📋 建议补证项\n\n| 编号 | 补证需要 | 理由 |\n|------|----------|------|\n| C1 | 为 exp4-deepseek 添加飞书路由 binding | 当前无绑定，exp4-deepseek 无法响应飞书消息，仅限本机 session |\n| C2 | 群组内 mention 实测截图/日志 | 需验证 @OC-DeepSeek 能正确被路由唤醒 |\n| C3 | 关闭 allowInsecureAuth | 遵循安全审计修复建议 |\n| C4 | 补充飞书账号 secrets 注入来源验证 | .env 文件是否存在、变量格式是否合规（建议检查 ${FEISHU_OC_DEEPSEEK_APP_ID} 的解析） |\n| C5 | 删除 BOOTSTRAP.md | 按工作区规范清理 |\n| C6 | 创建 memory/ 目录及 MEMORY.md | 当前无持久化记忆基础，agent 每次启动无上下文延续能力 |\n| C7 | 填写 IDENTITY.md 与 USER.md | 当前均为模板状态，agent 无身份标识、无人物画像 |",
+    "finalAssistantRawText": "基于审查结果，输出检查清单如下：\n\n---\n\n## exp4-deepseek 实验4作业初筛检查清单\n\n### ✅ 通过项\n\n| 编号 | 检查点 | 状态说明 |\n|------|--------|----------|\n| P1 | Gateway 服务运行状态 | systemd 已安装·enabled·running (pid 14925) |\n| P2 | Agent 创建 | agents.list 包含 exp4-deepseek，分配独立 workspace |\n| P3 | Provider 配置 | deepseek 模型 deepseek-v4-flash 已配置，contextWindow 1000k |\n| P4 | Feishu Channel 连接 | websocket 长连接 OK，2 个账号在线 |\n| P5 | 飞书群组路由 | binding 存在：exp4-qwen 绑定 oc-qwen 账号群组 |\n| P6 | Group 权限控制 | groupPolicy=allowlist，限定指定群组 |\n| P7 | 飞书插件加载 | feishu plugin 已启用并加载成功 |\n| P8 | 配置持久化 | lastKnownGood 校验通过，config-health.json 正常 |\n| P9 | Session 活跃 | exp4-deepseek main session 通信正常 |\n| P10 | 安全审计可运行 | openclaw security audit 可执行输出报告 |\n\n### ⚠️ 风险项\n\n| 编号 | 风险点 | 级别 | 说明 |\n|------|--------|------|------|\n| R1 | exp4-deepseek 缺少飞书路由绑定 | 中 | 当前 bindings 仅有 exp4-qwen→oc-qwen 一条；exp4-deepseek 无绑定路由，无法通过飞书 channel 接收群消息 |\n| R2 | allowInsecureAuth=true 未关闭 | 中 | gateway.controlUi.allowInsecureAuth 仍开启，安全审计已告警 |\n| R3 | Plugin 版本未 pin | 低 | @openclaw/feishu 未锁定精确版本，供应链稳定风险 |\n| R4 | Node service 未安装 | 低 | systemd user node service 未安装，缺乏移动端配对路径 |\n| R5 | 历史配置写入异常记录 | 低 | config-audit.jsonl 存在一次 \"invalid config: must be object\" 错误，发生在 channels.feishu.accounts 字段 |\n| R6 | BOOTSTRAP.md 未删除 | 低 | 首次引导标记文件仍存在于 workspace，按 AGENTS.md 约定应在首次对话后删除 |\n\n### 📋 建议补证项\n\n| 编号 | 补证需要 | 理由 |\n|------|----------|------|\n| C1 | 为 exp4-deepseek 添加飞书路由 binding | 当前无绑定，exp4-deepseek 无法响应飞书消息，仅限本机 session |\n| C2 | 群组内 mention 实测截图/日志 | 需验证 @OC-DeepSeek 能正确被路由唤醒 |\n| C3 | 关闭 allowInsecureAuth | 遵循安全审计修复建议 |\n| C4 | 补充飞书账号 secrets 注入来源验证 | .env 文件是否存在、变量格式是否合规（建议检查 ${FEISHU_OC_DEEPSEEK_APP_ID} 的解析） |\n| C5 | 删除 BOOTSTRAP.md | 按工作区规范清理 |\n| C6 | 创建 memory/ 目录及 MEMORY.md | 当前无持久化记忆基础，agent 每次启动无上下文延续能力 |\n| C7 | 填写 IDENTITY.md 与 USER.md | 当前均为模板状态，agent 无身份标识、无人物画像 |",
+    "replayInvalid": true,
+    "livenessState": "working",
+    "stopReason": "stop",
+    "executionTrace": {
+      "winnerProvider": "deepseek",
+      "winnerModel": "deepseek-v4-flash",
+      "attempts": [
+        {
+          "provider": "deepseek",
+          "model": "deepseek-v4-flash",
+          "result": "success",
+          "stage": "assistant"
+        }
+      ],
+      "fallbackUsed": false,
+      "runner": "embedded"
+    },
+    "requestShaping": {
+      "thinking": "off"
+    },
+    "toolSummary": {
+      "calls": 21,
+      "tools": [
+        "exec",
+        "memory_search",
+        "read"
+      ],
+      "failures": 0
+    },
+    "completion": {
+      "stopReason": "stop",
+      "finishReason": "stop"
+    }
+  }
+}
