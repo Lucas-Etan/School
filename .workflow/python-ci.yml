@@ -1,0 +1,29 @@
+name: Python CI (Disabled)
+
+on:
+  # 所有触发条件都注释掉，永远不会自动运行
+  # push:
+  #   branches: [ main, develop ]
+  # pull_request:
+  #   branches: [ main ]
+  workflow_dispatch:  # 保留手动触发，但需要你主动去 GitHub Actions 页面点击运行
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    if: false  # 直接禁用整个 job，永远不会执行
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install pytest
+
+    - name: Run tests
+      run: pytest
